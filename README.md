@@ -1,4 +1,4 @@
-# Descriptive youtube API
+#  youtube API
 The "YouTube Data Analyzer" is a comprehensive tool designed to retrieve, analyze, and store data from multiple YouTube channels. It offers a user-friendly Streamlit interface that empowers users to make data-driven decisions,** refine content strategies, and stay competitive in the dynamic world of social media.
 **Tools Required**
 Python 3
